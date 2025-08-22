@@ -74,7 +74,12 @@
 ## Скріншоти
 
 Меню:
-![Menu](Images/Menu.png "Головне меню (Start/Quit)")
+<p float="left">
+  <img src="Assets/Readme/Images/Menu.png" alt="Меню" width="48%">
+  <img src="Assets/Readme/Images/Pause.png" alt="Пауза/оверлей" width="48%">
+</p>
+
+
 
 Пауза/оверлей:
 ![Pause](Images/Pause.png "Пауза, повідомлення про ненаявність(в данному випадку контролера) і можливість вийти з гри")
