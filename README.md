@@ -74,10 +74,12 @@
 ## Скріншоти
 
 Меню:
-<p float="left">
-  <img src="Assets/Readme/Images/Menu.png" alt="Меню" width="48%">
-  <img src="Assets/Readme/Images/Pause.png" alt="Пауза/оверлей" width="48%">
-</p>
+
+<p><img src="Images/Menu.png" alt="Menu" width="600"></p>
+
+Пауза/оверлей:
+<p><img src="Images/Pause.png" alt="Pause" width="600"></p>
+
 
 
 
